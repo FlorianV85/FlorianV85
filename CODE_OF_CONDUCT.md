@@ -1,6 +1,8 @@
 
 # Code de conduite Contributor Covenant
 
+**[ ENGLISH TRANSLATION ]** : [CODE_OF_CONDUCT_EN.md](./CODE_OF_CONDUCT_EN.md)
+
 ## Notre engagement
 
 En tant que membres, contributeurs et dirigeants, nous nous engageons à faire
