@@ -1,9 +1,9 @@
 ### Hi there. Bonjour 👋 🇫🇷 !
 
 
-[ 🇫🇷 ]  Je suis un français de 28 ans qui développe principalement en typescript et parfois un peu en C#. Je suis un développeur amateur qui apprend en autodictacte. J'ai du plaisir à aider et partager quand je le peux.
+[ 🇫🇷 ]  Je suis un français de 29 ans qui développe principalement en typescript et parfois un peu en C#. Je suis un développeur amateur qui apprend en autodictacte. J'ai du plaisir à aider et partager quand je le peux.
 
-[ 🇬🇧 ]  I'm a French 28-year-old who writes mainly in typescript and sometimes a little in C#. I'm an amateur developer who learns by self-training. I enjoy helping and sharing when I can.
+[ 🇬🇧 ]  I'm a French 29-year-old who writes mainly in typescript and sometimes a little in C#. I'm an amateur developer who learns by self-training. I enjoy helping and sharing when I can.
 
 #### Stats
 
